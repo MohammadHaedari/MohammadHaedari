@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MohammadHaedari
+- 👋 Hi, I’m Mohammad Haedari
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning React js
 - 💞️ I’m looking to collaborate on ...
